@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hunaif Yahakoob</h1>
-- 🌱 I’m currently learning **Network Security, Vitualization**
+- 🌱 I’m currently learning **Network Security, Virtualization**
 
-- 💬 Ask me about **Networking, Linux, Data Centre Virtualization,**
+- 💬 Ask me about **Networking, Linux, Data Centre Virtualization,Cloud Computing**
 
 - 📫 How to reach me **hunaifmk@gmail.com**
 
